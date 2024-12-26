@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{OFDMAbackscatter}
+Renjie Zhao, Fengyuan Zhu, Yuda Feng, Siyuan Peng, Xiaohua Tian, Hui Yu, and Xinbing Wang.
+\newblock Ofdma-enabled wi-fi backscatter.
+\newblock In {\em The 25th Annual International Conference on Mobile Computing and Networking}, pages 1--15, 2019.
+
+\bibitem{DigiScatter}
+Fengyuan Zhu, Yuda Feng, Qianru Li, Xiaohua Tian, and Xinbing Wang.
+\newblock Digiscatter: efficiently prototyping large-scale ofdma backscatter networks.
+\newblock In {\em Proceedings of the 18th International Conference on Mobile Systems, Applications, and Services}, pages 42--53, 2020.
+
+\end{thebibliography}
